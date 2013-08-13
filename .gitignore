@@ -1,5 +1,7 @@
 deps/*
 *.beam
 .eunit/*
-ebin/*.app
 doc/*
+.settings
+.project
+target
